@@ -1,6 +1,6 @@
 Welcome to the impressive Landing Page project! This project is designed to create a visually appealing and user-friendly landing page that showcases our company’s mission, services, and contact information.
 Built with HTML and CSS, this landing page aims to provide a seamless experience for visitors.
-Instructions:
+## Instructions:
 1.Clone the repository
 git clone https://github.com/aishwaryaa-147/impressive-landing-page.git
 2.Navigate to the project directory:
@@ -14,6 +14,7 @@ Services:
 Details about the services we offer.
 Contact Us:
 Contact information for getting in touch with us
+## contribution
 We welcome contributions to improve this project!
 To contribute, follow these steps:
 1.Fork the repository.
