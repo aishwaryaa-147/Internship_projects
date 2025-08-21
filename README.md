@@ -16,7 +16,7 @@ Contact information for getting in touch with us
 ## contribution
 We welcome contributions to improve this project!
 To contribute, follow these steps:
-1.Fork the repository.
+1.Fork the repository:
 2.Create a new branch:
 git checkout -b feature-branch
 3.Make your changes and commit them:
