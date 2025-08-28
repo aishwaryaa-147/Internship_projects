@@ -20,7 +20,7 @@ To contribute, follow these steps:
 2.Create a new branch:
 git checkout -b feature-branch
 3.Make your changes and commit them:
-git commit -m "Add your message here"
+git commit -m "Any message here"
 4.Push to the branch:
 git push origin feature-branch
 5.Create a pull request.
